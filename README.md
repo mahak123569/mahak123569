@@ -10,6 +10,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 ## 🛠️ Technical Skills
 
 **Languages**
+- C Language
 - Java  
 - JavaScript  
   
@@ -17,7 +18,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 **Web Technologies**
 - HTML5  
 - CSS3  
-- Basic React (learning)
+- React.js
 
 **Tools & Platforms**
 - Git & GitHub  
