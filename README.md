@@ -22,7 +22,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 **Tools & Platforms**
 - Git & GitHub  
 - Visual Studio Code  
-- GitHub Pages  
+ 
 
 ---
 
