@@ -12,7 +12,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 **Languages**
 - Java  
 - JavaScript  
-- PHP  
+  
 
 **Web Technologies**
 - HTML5  
