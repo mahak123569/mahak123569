@@ -21,6 +21,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 - React.js
 - Node.js
 - MongoDB
+- DSA
 
 **Tools & Platforms**
 - Git & GitHub  
