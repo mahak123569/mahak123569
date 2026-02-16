@@ -1,4 +1,4 @@
-# Hi 👋 I’m Ananya Kesarwani  
+# Hi 👋 I’m Ananya Kesarwani
 
 🎓 Bachelor of Computer Applications (BCA) Student  
 💻 Aspiring Software Developer | Web Development Enthusiast  
