@@ -47,6 +47,29 @@ A real-time digital clock built using HTML, CSS, and JavaScript that dynamically
 
 Uses JavaScript Date object for live time updates
 
+# 💻 Password Generator
+
+A simple and interactive **Password Generator** web application built using HTML, CSS, and JavaScript.  
+This tool helps users generate **strong random passwords** based on selected preferences.
+
+---
+
+## 🚀 Features
+
+✔ Generate secure random passwords  
+✔ Choose password length  
+✔ Include uppercase, lowercase, numbers, and symbols  
+✔ Copy password with one click
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript
+
+
 Simple and responsive UI design
 ---
 
