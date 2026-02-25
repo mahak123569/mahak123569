@@ -82,7 +82,7 @@ Simple and responsive UI design
 
 ## 📫 Contact & Profiles
 - 💼 **GitHub:** https://github.com/mahak123569  
-- 🔗 **LinkedIn:**(https://www.linkedin.com/in/ananya-kesarwani-2451073b3/) 
+- 🔗 **LinkedIn:**https://www.linkedin.com/in/ananya-kesarwani-2451073b3/
 
 ---
 
