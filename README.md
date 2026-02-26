@@ -58,7 +58,7 @@ This tool helps users generate **strong random passwords** based on selected pre
 
 ✔ Generate secure random passwords  
 ✔ Choose password length  
-✔ Include uppercase, lowercase, numbers, and symbols  
+✔ Include uppercase, lowercase, numbers, and symbols
 ✔ Copy password with one click
 
 ---
