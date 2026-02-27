@@ -76,7 +76,9 @@ Simple and responsive UI design
 ## 🌱 Currently Learning
 - Advanced JavaScript  
 - React.js  
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- backent
+- fronted
 
 ---
 
