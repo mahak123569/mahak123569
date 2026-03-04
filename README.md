@@ -1,11 +1,11 @@
 # Hi 👋 I’m Ananya Kesarwani
 
-🎓 Bachelor of Computer Applications (BCA) Student.  
+🎓 Bachelor of Computer Applications (BCA) Student. 
 💻 Aspiring Software Developer | Web Development Enthusiast.
 
 I am a motivated BCA student with a strong interest in building user-friendly web applications and continuously improving my problem-solving skills. I enjoy learning new technologies and applying them through hands-on projects.
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -28,7 +28,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 - Visual Studio Code.  
  
 
----
+
 
 ## 📌 Projects
 
