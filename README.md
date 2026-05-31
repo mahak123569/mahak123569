@@ -81,6 +81,8 @@ Simple and responsive UI design
 - Data Structures & Algorithms
 - backent
 - fronted
+- AI
+- python
 
 
 
