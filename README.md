@@ -23,7 +23,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 - express.js
 - MongoDB
 - DSA
-- AI
+-  Gen AI
 
 **Tools & Platforms**
 - Git & GitHub  
@@ -81,7 +81,7 @@ Simple and responsive UI design
 - Data Structures & Algorithms
 - backent
 - fronted
-- AI
+- Gen AI
 - python
 
 
