@@ -16,8 +16,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 - python
 
 **Web Technologies**
-- HTML5  
-- CSS3  
+- Web Development  
 - MERN
 - DSA
 -  Gen AI
@@ -30,26 +29,6 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 
 
 ## 📌 Projects
-
-🕒 Digital Clock Project
-
-A real-time digital clock built using HTML, CSS, and JavaScript that dynamically displays the current time.
-
-📂 Repository: https://github.com/mahak123569/clock
-
-Uses JavaScript Date object for live time updates
-
-
-
-
-## 🌱 Currently Learning
-- Advanced JavaScript  
-- React.js  
-- Data Structures & Algorithms
-- backent
-- fronted
-- Gen AI
-- python
 
 
 
