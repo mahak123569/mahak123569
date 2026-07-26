@@ -18,10 +18,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 **Web Technologies**
 - HTML5  
 - CSS3  
-- React.js
-- Node.js
-- express.js
-- MongoDB
+- MERN
 - DSA
 -  Gen AI
 
