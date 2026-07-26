@@ -34,13 +34,6 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 
 ## 📌 Projects
 
-### 🎮 Tic Tac Toe Game
-A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
-
-- 🔗 **Live Demo:** https://mahak123569.github.io/Tic-tac-toe/  
-- 📂 **Repository:** https://github.com/mahak123569/Tic-tac-toe  
-
-
 🕒 Digital Clock Project
 
 A real-time digital clock built using HTML, CSS, and JavaScript that dynamically displays the current time.
@@ -49,30 +42,7 @@ A real-time digital clock built using HTML, CSS, and JavaScript that dynamically
 
 Uses JavaScript Date object for live time updates
 
-# 💻 Password Generator
 
-A simple and interactive **Password Generator** web application built using HTML, CSS, and JavaScript.  
-This tool helps users generate **strong random passwords** based on selected preferences.
-
----
-
-## 🚀 Features
-
-✔ Generate secure random passwords  
-✔ Choose password length  
-✔ Include uppercase, lowercase, numbers, and symbols
-✔ Copy password with one click
-
-
-
-## 🛠️ Technologies Used
-
-- HTML  
-- CSS  
-- JavaScript
-
-
-Simple and responsive UI design
 
 
 ## 🌱 Currently Learning
@@ -98,48 +68,6 @@ I couldn’t directly extract your README content (your repo didn’t show up cl
 You can copy-paste this into your GitHub repo:
 
 
-
-# ⏱️ Stopwatch
-
-## 📌 Description
-
-A simple and responsive **Stopwatch Web Application** that allows users to measure time intervals easily.
-The app provides basic functionalities like start, stop, and reset with a clean and user-friendly interface.
-
----
-
-## 🚀 Features
-
-* ▶️ Start the stopwatch
-* ⏸️ Pause / Stop functionality
-* 🔄 Reset timer to zero
-* ⏱️ Real-time time tracking
-* 💻 Simple and responsive UI
-
----
-
-## 🛠️ Tech Stack
-
-* **HTML** – Structure of the app
-* **CSS** – Styling and layout
-* **JavaScript** – Functionality and logic
-
-Stopwatch apps like this are commonly built using HTML, CSS, and JavaScript for interactive UI and real-time updates. ([GitHub][1])
-
----
-
-## 📂 Project Structure
-
-```
-Stopwatch/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-```
-
-
-
 ## ⚙️ How to Run the Project
 
 1. Clone the repository:
@@ -148,26 +76,7 @@ Stopwatch/
    git clone https://github.com/mahak123569/Stopwatch.git
    
 
-2. Open the project folder:
 
-   
-   cd Stopwatch
-   
-
-3. Run the project:
-
-    Open `index.html` in your browser
-
-
-
-
-
-## 📈 Future Improvements
-
-* Add lap timer feature
-* Add dark mode
-* Improve UI animations
-* Store time history
 
 
 
