@@ -22,7 +22,7 @@ I am a motivated BCA student with a strong interest in building user-friendly we
 -  Gen AI
 
 **Tools & Platforms**
-- Git & GitHub  
+- GitHub  
 - Visual Studio Code.  
  
 
