@@ -19,7 +19,7 @@ Currently, I’m focused on improving my skills in **Full-Stack Web Development,
 * Java
 * JavaScript
 * C
-* Python
+  
 
 ### 🌐 Web Development
 
